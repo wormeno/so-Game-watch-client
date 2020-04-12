@@ -14,7 +14,15 @@
  */
 void* serializar_paquete(t_paquete* paquete, int *bytes)
 {
-
+	int offset = 0;
+	*bytes = paquete->buffer->size + 2*sizeof(int);
+	void* aEnviar = malloc(*bytes);
+	memcpy(aEnviar + offset , &(paquete->codigo_operacion),sizeof(int));
+	offset += sizeof(int);
+	memcpy(aEnviar + offset , &(paquete->buffer->size),sizeof(int));
+	offset += sizeof(int);
+	memcpy(aEnviar + offset , paquete->buffer->stream,paquete->buffer->size);
+	return aEnviar;
 }
 
 int crear_conexion(char *ip, char* puerto)
@@ -42,13 +50,60 @@ int crear_conexion(char *ip, char* puerto)
 //TODO
 void enviar_mensaje(char* mensaje, int socket_cliente)
 {
+	int estado=0,bytes = 0;
+	t_buffer* buffer = (t_buffer*) malloc(sizeof(t_buffer));
+	buffer->size =  strlen(mensaje) +1; // ta;anio del mensaje
+	void* stream =  malloc(sizeof(buffer->size));
+	memcpy(stream , mensaje,buffer->size);
+	buffer->stream = stream;
+	//Armo el paquete
+	t_paquete* paquete = (t_paquete*) malloc(sizeof(t_paquete));
+	paquete->codigo_operacion = MENSAJE;
+	paquete->buffer = buffer;
+	//Serializo
 
+	void* aEnviar =  serializar_paquete(paquete,&bytes);
+	//envio
+	estado = send(socket_cliente, aEnviar, bytes, 0);
+	//libero
+	free(stream);
+	free(buffer);
+	free(paquete);
+	free(aEnviar);
+	printf("envio \n");
+	switch (estado) {
+			case -1:
+				printf("EnviarMensaje -> Error al enviar.\n");
+				break;
+			case 0:
+				printf("EnviarMensaje -> No se pudo enviar nada.\n");
+				break;
+			default:
+				printf("EnviarMensaje -> Paquete Enviado - %d Bytes transferidos.\n", estado);
+				break;
+	}
+	printf("\n");
+	return;
 }
 
 //TODO
 char* recibir_mensaje(int socket_cliente)
 {
-
+	char* mensaje;
+	int cod_op,size;
+	recv(socket_cliente, &cod_op, sizeof(int), MSG_WAITALL); // Primero recibimos el codigo de operacion
+	switch( cod_op ) {
+		case MENSAJE:
+			recv(socket_cliente, &size, sizeof(int), MSG_WAITALL);//recibimos el buffer: su tama;o
+			printf("tamanio %d\n",size);
+			mensaje= malloc(size);
+			recv(socket_cliente, mensaje, size, MSG_WAITALL);
+			break;
+		default:
+			printf("RecibirMensaje -> Error OpCode: %d.\n", cod_op);
+			break;
+	}
+	return mensaje;
 }
 
 void liberar_conexion(int socket_cliente)

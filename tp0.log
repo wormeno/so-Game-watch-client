@@ -1,0 +1,368 @@
+[INFO] 20:04:18:534 tp0.c/(15643:15643): esto es un mensaje
+[INFO] 20:04:50:919 tp0.c/(15673:15673): esto es un mensaje
+[INFO] 16:11:28:182 tp0.c/(5711:5711): esto es un mensaje
+[INFO] 16:12:19:338 tp0.c/(5772:5772): Soy un Log
+[INFO] 16:18:32:344 tp0.c/(6050:6050): Soy un Log
+[INFO] 16:50:14:32 tp0.c/(7248:7248): Soy un Log
+[INFO] 16:52:19:545 tp0.c/(7366:7366): Soy un Log
+[INFO] 16:52:19:554 tp0.c/(7366:7366): ¹R½¿]S½¿iS½¿€S½¿“S½¿ÒS½¿ÜS½¿õS½¿T½¿DT½¿xT½¿T½¿šT½¿U½¿QU½¿fU½¿ŽU½¿ U½¿ªU½¿ÚU½¿ìU½¿V½¿V½¿8V½¿@V½¿iV½¿V½¿‡V½¿ŸV½¿ÃV½¿×V½¿ôV½¿W½¿W½¿iW½¿W½¿¯W½¿×W½¿êW½¿÷W½¿X½¿ X½¿-X½¿>X½¿KX½¿¼X½¿ÙX½¿
+Y½¿!Y½¿AY½¿QY½¿jY½¿‚Y½¿”Y½¿ªY½¿½Y½¿ÍY½¿ðY½¿Z½¿$Z½¿8Z½¿oZ½¿[½¿ [½¿7[½¿D[½¿S[½¿l[½¿}[½¿Œ[½¿¯[½¿½[½¿Æ[½¿Ø[½¿ó[½¿\½¿\½¿.\½¿R\½¿i\½¿š\½¿¦\½¿à\½¿ï\½¿]½¿]½¿4]½¿R]½¿]½¿™]½¿§]½¿½]½¿Î]½¿å]½¿ú]½¿^½¿^½¿8^½¿G^½¿P^½¿a^½¿^½¿¿^½¿Ê^½¿î^½¿_½¿._½¿=_½¿W_½¿v_½¿_½¿’_½¿Â_½¿
+[INFO] 16:52:55:364 tp0.c/(7410:7410): Soy un Log
+[INFO] 16:52:55:380 tp0.c/(7410:7410): ¹ò±¿]ó±¿ió±¿€ó±¿“ó±¿Òó±¿Üó±¿õó±¿ô±¿Dô±¿xô±¿ô±¿šô±¿õ±¿Qõ±¿fõ±¿Žõ±¿ õ±¿ªõ±¿Úõ±¿ìõ±¿ö±¿ö±¿8ö±¿@ö±¿iö±¿ö±¿‡ö±¿Ÿö±¿Ãö±¿×ö±¿ôö±¿÷±¿÷±¿i÷±¿÷±¿¯÷±¿×÷±¿ê÷±¿÷÷±¿ø±¿ ø±¿-ø±¿>ø±¿Kø±¿¼ø±¿Ùø±¿
+ù±¿!ù±¿Aù±¿Qù±¿jù±¿‚ù±¿”ù±¿ªù±¿½ù±¿Íù±¿ðù±¿ú±¿$ú±¿8ú±¿oú±¿û±¿ û±¿7û±¿Dû±¿Sû±¿lû±¿}û±¿Œû±¿¯û±¿½û±¿Æû±¿Øû±¿óû±¿ü±¿ü±¿.ü±¿Rü±¿iü±¿šü±¿¦ü±¿àü±¿ïü±¿ý±¿ý±¿4ý±¿Rý±¿ý±¿™ý±¿§ý±¿½ý±¿Îý±¿åý±¿úý±¿þ±¿þ±¿8þ±¿Gþ±¿Pþ±¿aþ±¿þ±¿¿þ±¿Êþ±¿îþ±¿ÿ±¿.ÿ±¿=ÿ±¿Wÿ±¿vÿ±¿ÿ±¿’ÿ±¿Âÿ±¿
+[INFO] 16:55:20:16 tp0.c/(7506:7506): Soy un Log
+[INFO] 16:55:51:843 tp0.c/(7565:7565): Soy un Log
+[INFO] 16:56:18:343 tp0.c/(7602:7602): Soy un Log
+[INFO] 16:56:52:753 tp0.c/(7638:7638): Soy un Log
+[INFO] 16:57:24:806 tp0.c/(7681:7681): Soy un Log
+[INFO] 16:57:46:329 tp0.c/(7716:7716): Soy un Log
+[INFO] 16:58:14:460 tp0.c/(7763:7763): Soy un Log
+[INFO] 16:58:14:461 tp0.c/(7763:7763): ¹rè¿]sè¿isè¿€sè¿“sè¿Òsè¿Üsè¿õsè¿tè¿Dtè¿xtè¿tè¿štè¿uè¿Què¿fuè¿Žuè¿ uè¿ªuè¿Úuè¿ìuè¿vè¿vè¿8vè¿@vè¿ivè¿vè¿‡vè¿Ÿvè¿Ãvè¿×vè¿ôvè¿wè¿wè¿iwè¿wè¿¯wè¿×wè¿êwè¿÷wè¿xè¿ xè¿-xè¿>xè¿Kxè¿¼xè¿Ùxè¿
+yè¿!yè¿Ayè¿Qyè¿jyè¿‚yè¿”yè¿ªyè¿½yè¿Íyè¿ðyè¿zè¿$zè¿8zè¿ozè¿{è¿ {è¿7{è¿D{è¿S{è¿l{è¿}{è¿Œ{è¿¯{è¿½{è¿Æ{è¿Ø{è¿ó{è¿|è¿|è¿.|è¿R|è¿i|è¿š|è¿¦|è¿à|è¿ï|è¿}è¿}è¿4}è¿R}è¿}è¿™}è¿§}è¿½}è¿Î}è¿å}è¿ú}è¿~è¿~è¿8~è¿G~è¿P~è¿a~è¿~è¿¿~è¿Ê~è¿î~è¿è¿.è¿=è¿Wè¿vè¿è¿’è¿Âè¿
+[INFO] 16:58:17:611 tp0.c/(7774:7774): Soy un Log
+[INFO] 16:58:17:613 tp0.c/(7774:7774): ¹âÆ¿]ãÆ¿iãÆ¿€ãÆ¿“ãÆ¿ÒãÆ¿ÜãÆ¿õãÆ¿äÆ¿DäÆ¿xäÆ¿äÆ¿šäÆ¿åÆ¿QåÆ¿fåÆ¿ŽåÆ¿ åÆ¿ªåÆ¿ÚåÆ¿ìåÆ¿æÆ¿æÆ¿8æÆ¿@æÆ¿iæÆ¿æÆ¿‡æÆ¿ŸæÆ¿ÃæÆ¿×æÆ¿ôæÆ¿çÆ¿çÆ¿içÆ¿çÆ¿¯çÆ¿×çÆ¿êçÆ¿÷çÆ¿èÆ¿ èÆ¿-èÆ¿>èÆ¿KèÆ¿¼èÆ¿ÙèÆ¿
+éÆ¿!éÆ¿AéÆ¿QéÆ¿jéÆ¿‚éÆ¿”éÆ¿ªéÆ¿½éÆ¿ÍéÆ¿ðéÆ¿êÆ¿$êÆ¿8êÆ¿oêÆ¿ëÆ¿ ëÆ¿7ëÆ¿DëÆ¿SëÆ¿lëÆ¿}ëÆ¿ŒëÆ¿¯ëÆ¿½ëÆ¿ÆëÆ¿ØëÆ¿óëÆ¿ìÆ¿ìÆ¿.ìÆ¿RìÆ¿iìÆ¿šìÆ¿¦ìÆ¿àìÆ¿ïìÆ¿íÆ¿íÆ¿4íÆ¿RíÆ¿íÆ¿™íÆ¿§íÆ¿½íÆ¿ÎíÆ¿åíÆ¿úíÆ¿îÆ¿îÆ¿8îÆ¿GîÆ¿PîÆ¿aîÆ¿îÆ¿¿îÆ¿ÊîÆ¿îîÆ¿ïÆ¿.ïÆ¿=ïÆ¿WïÆ¿vïÆ¿ïÆ¿’ïÆ¿ÂïÆ¿
+[INFO] 16:59:42:665 tp0.c/(7862:7862): Soy un Log
+[INFO] 16:59:42:666 tp0.c/(7862:7862): 127.0.0.1
+[INFO] 17:00:09:517 tp0.c/(7912:7912): Soy un Log
+[INFO] 17:00:09:521 tp0.c/(7912:7912): 127.0.0.1
+[INFO] 17:00:48:730 tp0.c/(7999:7999): Soy un Log
+[INFO] 17:00:48:747 tp0.c/(7999:7999):  "ù¿]#ù¿i#ù¿€#ù¿“#ù¿Ò#ù¿Ü#ù¿õ#ù¿$ù¿D$ù¿x$ù¿$ù¿š$ù¿%ù¿Q%ù¿f%ù¿Ž%ù¿ %ù¿ª%ù¿Ú%ù¿ì%ù¿&ù¿&ù¿8&ù¿@&ù¿i&ù¿&ù¿‡&ù¿Ÿ&ù¿Ã&ù¿×&ù¿ô&ù¿'ù¿'ù¿i'ù¿'ù¿¯'ù¿×'ù¿ê'ù¿÷'ù¿(ù¿ (ù¿-(ù¿>(ù¿K(ù¿¼(ù¿Ù(ù¿
+)ù¿!)ù¿A)ù¿Q)ù¿j)ù¿‚)ù¿”)ù¿ª)ù¿½)ù¿Í)ù¿ð)ù¿*ù¿$*ù¿8*ù¿o*ù¿+ù¿ +ù¿7+ù¿D+ù¿S+ù¿l+ù¿}+ù¿Œ+ù¿¯+ù¿½+ù¿Æ+ù¿Ø+ù¿ó+ù¿,ù¿,ù¿.,ù¿R,ù¿i,ù¿š,ù¿¦,ù¿à,ù¿ï,ù¿-ù¿-ù¿4-ù¿R-ù¿-ù¿™-ù¿§-ù¿½-ù¿Î-ù¿å-ù¿ú-ù¿.ù¿.ù¿8.ù¿G.ù¿P.ù¿a.ù¿.ù¿¿.ù¿Ê.ù¿î.ù¿/ù¿./ù¿=/ù¿W/ù¿v/ù¿/ù¿’/ù¿Â/ù¿
+[INFO] 17:01:03:344 tp0.c/(8031:8031): Soy un Log
+[INFO] 17:01:03:345 tp0.c/(8031:8031): 127.0.0.1
+[INFO] 17:01:38:54 tp0.c/(8086:8086): Soy un Log
+[INFO] 17:01:38:57 tp0.c/(8086:8086): 127.0.0.1
+[INFO] 17:01:38:57 tp0.c/(8086:8086): 4444
+[INFO] 12:40:50:851 tp0.c/(6138:6138): Soy un Log
+[INFO] 12:40:50:870 tp0.c/(6138:6138): 127.0.0.1
+[INFO] 12:40:50:871 tp0.c/(6138:6138): 4444
+[INFO] 13:51:06:129 tp0.c/(7158:7158): Soy un Log
+[INFO] 13:51:06:129 tp0.c/(7158:7158): 127.0.0.1
+[INFO] 13:51:06:129 tp0.c/(7158:7158): 4444
+[INFO] 13:52:27:106 tp0.c/(7206:7206): Soy un Log
+[INFO] 13:52:27:108 tp0.c/(7206:7206): 127.0.0.1
+[INFO] 13:52:27:111 tp0.c/(7206:7206): 4444
+[INFO] 13:52:56:872 tp0.c/(7253:7253): Soy un Log
+[INFO] 13:52:56:879 tp0.c/(7253:7253): 127.0.0.1
+[INFO] 13:52:56:879 tp0.c/(7253:7253): 4444
+[INFO] 17:58:25:754 tp0.c/(12869:12869): Mi
+[INFO] 18:00:06:916 tp0.c/(12995:12995): asdfasdfasf
+[INFO] 18:00:19:619 tp0.c/(13012:13012): Mi
+[INFO] 18:00:52:51 tp0.c/(13034:13034): Miprimermensaje
+[INFO] 18:10:19:785 tp0.c/(13376:13376): miprimer
+[INFO] 18:16:18:200 tp0.c/(13633:13633): 
+[INFO] 18:17:19:857 tp0.c/(13701:13701): 
+[INFO] 18:18:22:300 tp0.c/(13765:13765): adsfasfs
+[INFO] 18:50:29:19 tp0.c/(14855:14855): 
+[INFO] 18:54:24:464 tp0.c/(15056:15056): asdfasdfasdf
+[INFO] 18:55:19:455 tp0.c/(15095:15095): asdfasdfe
+[INFO] 18:55:38:810 tp0.c/(15112:15112): ajeensmensajeGenial
+[INFO] 18:56:53:328 tp0.c/(15172:15172): vamosbien
+[INFO] 18:58:25:931 tp0.c/(15273:15273): bien
+[INFO] 18:58:51:109 tp0.c/(15311:15311): jooo\
+[INFO] 19:11:03:449 tp0.c/(15773:15773): a
+[INFO] 19:11:16:980 tp0.c/(15786:15786): aver
+[INFO] 19:21:42:912 tp0.c/(16227:16227): jojojo
+[INFO] 20:01:48:647 tp0.c/(17313:17313): aver
+[INFO] 20:02:49:316 tp0.c/(17351:17351): mensajeini
+[INFO] 20:07:32:163 tp0.c/(17527:17527): aver
+[INFO] 20:21:51:431 tp0.c/(17869:17869): mensajito
+[INFO] 20:23:40:299 tp0.c/(17939:17939): mensajito
+[INFO] 20:24:46:403 tp0.c/(18224:18224): mje
+[INFO] 20:25:23:655 tp0.c/(18289:18289): aaaa
+[INFO] 20:26:03:698 tp0.c/(18335:18335): asdfa
+[INFO] 20:30:09:49 tp0.c/(18438:18438): asfadsf
+[INFO] 20:31:59:615 tp0.c/(18512:18512): aver
+[INFO] 20:32:42:479 tp0.c/(18543:18543): adf
+[INFO] 20:37:07:633 tp0.c/(18681:18681): elMensaje
+[INFO] 20:41:54:336 tp0.c/(18810:18810): elMensaje
+[INFO] 20:45:20:60 tp0.c/(18893:18893): elMensaje
+[INFO] 20:49:52:851 tp0.c/(19002:19002): elMensaje
+[INFO] 20:55:43:401 tp0.c/(19146:19146): elMensaje
+[INFO] 20:57:11:840 tp0.c/(19217:19217): elMensaje
+[INFO] 21:00:38:124 tp0.c/(19321:19321): elMensaje
+[INFO] 21:02:19:334 tp0.c/(19436:19436): elMensaje
+[INFO] 21:03:03:889 tp0.c/(19475:19475): elMensaje
+[INFO] 21:05:28:152 tp0.c/(19549:19549): elMensaje
+[INFO] 21:07:10:241 tp0.c/(19642:19642): elMensaje
+[INFO] 21:09:21:855 tp0.c/(19721:19721): elMensaje
+[INFO] 21:10:28:883 tp0.c/(19789:19789): elMensaje
+[INFO] 21:11:39:355 tp0.c/(19859:19859): elMensaje
+[INFO] 21:12:56:88 tp0.c/(19900:19900): elMensaje
+[INFO] 21:13:19:451 tp0.c/(19934:19934): elMensaje
+[INFO] 21:13:39:976 tp0.c/(19974:19974): elMensaje
+[INFO] 21:14:38:796 tp0.c/(20019:20019): elMensaje
+[INFO] 21:15:01:552 tp0.c/(20053:20053): elMensaje
+[INFO] 21:29:55:909 tp0.c/(20359:20359): elMensaje
+[INFO] 21:30:14:114 tp0.c/(20393:20393): elMensaje
+[INFO] 21:31:34:58 tp0.c/(20443:20443): elMensaje
+[INFO] 21:32:03:946 tp0.c/(20480:20480): elMensaje
+[INFO] 21:32:24:499 tp0.c/(20514:20514): elMensaje
+[INFO] 21:34:00:194 tp0.c/(20577:20577): elMensaje
+[INFO] 21:34:44:673 tp0.c/(20622:20622): elMensaje
+[INFO] 21:35:37:573 tp0.c/(20679:20679): elMensaje
+[INFO] 21:36:19:930 tp0.c/(20923:20923): elMensaje
+[INFO] 21:36:51:9 tp0.c/(21037:21037): elMensaje
+[INFO] 21:37:13:188 tp0.c/(21069:21069): elMensaje
+[INFO] 21:37:32:367 tp0.c/(21130:21130): elMensaje
+[INFO] 21:38:19:693 tp0.c/(21187:21187): elMensaje
+[INFO] 21:38:35:912 tp0.c/(21223:21223): elMensaje
+[INFO] 21:39:22:209 tp0.c/(21256:21256): elMensaje
+[INFO] 21:41:40:371 tp0.c/(21354:21354): elMensaje
+[INFO] 21:42:53:779 tp0.c/(21421:21421): elMensaje
+[INFO] 21:44:16:60 tp0.c/(21480:21480): elMensaje
+[INFO] 21:45:12:338 tp0.c/(21533:21533): elMensaje
+[INFO] 21:48:26:49 tp0.c/(21730:21730): este es el mensaje
+[INFO] 21:49:56:750 tp0.c/(21786:21786): este es el mensaje
+[INFO] 21:54:58:735 tp0.c/(21884:21884): este es el mensaje
+[INFO] 21:58:32:386 tp0.c/(22013:22013): este es el mensaje
+[INFO] 22:00:03:114 tp0.c/(22107:22107): este es el mensaje
+[INFO] 22:01:41:125 tp0.c/(22202:22202): este es el mensaje
+[INFO] 22:03:04:601 tp0.c/(22283:22283): este es el mensaje
+[INFO] 22:06:42:984 tp0.c/(22347:22347): este es el mensaje
+[INFO] 22:10:03:342 tp0.c/(22431:22431): este es el mensaje
+[INFO] 22:27:47:106 tp0.c/(22902:22902): este es el mensaje
+[INFO] 22:28:09:936 tp0.c/(22945:22945): este es el mensaje
+[INFO] 22:28:32:629 tp0.c/(22979:22979): este es el mensaje
+[INFO] 22:35:37:555 tp0.c/(30679:30679): este es el mensaje
+[INFO] 22:37:29:731 tp0.c/(13048:13048): este es el mensaje
+[INFO] 22:38:32:569 tp0.c/(18100:18100): este es el mensaje
+[INFO] 22:43:11:141 tp0.c/(25215:25215): este es el mensaje
+[INFO] 22:59:45:215 tp0.c/(24115:24115): este es el mensaje
+[INFO] 23:19:30:611 tp0.c/(17567:17567): este es el mensaje
+[INFO] 23:19:41:297 tp0.c/(22041:22041): este es el mensaje
+[INFO] 23:19:50:661 tp0.c/(23054:23054): este es el mensaje
+[INFO] 23:23:16:325 tp0.c/(23558:23558): este es el mensaje
+[INFO] 23:24:44:426 tp0.c/(23602:23602): este es el mensaje
+[INFO] 23:25:43:756 tp0.c/(23656:23656): este es el mensaje
+[INFO] 23:26:27:316 tp0.c/(23721:23721): NuevoMensaje
+[INFO] 23:26:52:721 tp0.c/(23997:23997): NuevoMensaje
+[INFO] 23:27:16:45 tp0.c/(24041:24041): NuevoMensaje
+[INFO] 23:27:54:983 tp0.c/(24099:24099): NuevoMensaje
+[INFO] 12:41:01:519 tp0.c/(7153:7153): NuevoMensaje
+[INFO] 12:54:51:98 tp0.c/(7530:7530): NuevoMensaje
+[INFO] 12:55:29:692 tp0.c/(7560:7560): NuevoMensaje
+[INFO] 12:56:04:211 tp0.c/(7573:7573): NuevoMensaje
+[INFO] 12:59:41:755 tp0.c/(7708:7708): NuevoMensaje
+[INFO] 13:04:16:792 tp0.c/(7915:7915): NuevoMensaje
+[INFO] 13:51:53:290 tp0.c/(4054:4054): NuevoMensaje
+[INFO] 14:27:57:528 tp0.c/(3857:3857): NuevoMensaje
+[INFO] 14:29:11:71 tp0.c/(3930:3930): NuevoMensaje
+[INFO] 14:29:59:92 tp0.c/(3963:3963): NuevoMensaje
+[INFO] 14:30:49:635 tp0.c/(4015:4015): NuevoMensaje
+[INFO] 14:31:39:104 tp0.c/(4052:4052): NuevoMensaje
+[INFO] 14:31:55:606 tp0.c/(4071:4071): NuevoMensaje
+[INFO] 14:32:11:489 tp0.c/(4089:4089): NuevoMensaje
+[INFO] 14:33:22:169 tp0.c/(4154:4154): NuevoMensaje
+[INFO] 14:46:49:133 tp0.c/(4756:4756): NuevoMensaje
+[INFO] 14:49:02:229 tp0.c/(4808:4808): NuevoMensaje
+[INFO] 14:52:53:678 tp0.c/(4978:4978): NuevoMensaje
+[INFO] 14:53:21:689 tp0.c/(5007:5007): NuevoMensaje
+[INFO] 15:03:20:443 tp0.c/(5398:5398): NuevoMensaje
+[INFO] 15:04:54:81 tp0.c/(5445:5445): NuevoMensaje
+[INFO] 15:16:37:504 tp0.c/(5679:5679): NuevoMensaje
+[INFO] 15:17:27:300 tp0.c/(5721:5721): NuevoMensaje
+[INFO] 15:19:00:22 tp0.c/(5761:5761): NuevoMensaje
+[INFO] 15:21:02:545 tp0.c/(5811:5811): NuevoMensaje
+[INFO] 15:36:30:269 tp0.c/(6344:6344): NuevoMensaje
+[INFO] 15:36:59:1 tp0.c/(6376:6376): NuevoMensaje
+[INFO] 15:37:47:191 tp0.c/(6403:6403): NuevoMensaje
+[INFO] 15:39:11:894 tp0.c/(6438:6438): NuevoMensaje
+[INFO] 15:39:42:965 tp0.c/(6448:6448): NuevoMensaje
+[INFO] 15:41:40:697 tp0.c/(6484:6484): NuevoMensaje
+[INFO] 15:44:49:133 tp0.c/(6557:6557): NuevoMensaje
+[INFO] 15:45:05:686 tp0.c/(6573:6573): NuevoMensaje
+[INFO] 15:46:23:146 tp0.c/(6634:6634): NuevoMensaje
+[INFO] 15:47:45:426 tp0.c/(6686:6686): NuevoMensaje
+[INFO] 15:47:45:646 tp0.c/(6686:6686): Ahora recibo mensaje
+[INFO] 16:03:32:94 tp0.c/(7048:7048): NuevoMensaje
+[INFO] 16:03:33:330 tp0.c/(7048:7048): Ahora recibo mensaje
+[INFO] 16:04:02:532 tp0.c/(7061:7061): NuevoMensaje
+[INFO] 16:04:02:782 tp0.c/(7061:7061): Ahora recibo mensaje
+[INFO] 16:05:15:983 tp0.c/(7061:7061): È>Ö¾ä‰
+[INFO] 16:06:11:424 tp0.c/(23265:23265): NuevoMensaje
+[INFO] 16:06:31:444 tp0.c/(993:993): NuevoMensaje
+[INFO] 16:07:50:550 tp0.c/(2523:2523): NuevoMensaje
+[INFO] 16:07:50:551 tp0.c/(2523:2523): Ahora recibo mensaje
+[INFO] 16:13:31:962 tp0.c/(2602:2602): NuevoMensaje
+[INFO] 16:13:31:966 tp0.c/(2602:2602): Ahora recibo mensaje
+[INFO] 16:26:08:938 tp0.c/(2834:2834): NuevoMensaje
+[INFO] 16:26:09:168 tp0.c/(2834:2834): Ahora recibo mensaje
+[INFO] 16:27:32:262 tp0.c/(2871:2871): INICIO PROGRAMA
+[INFO] 16:27:32:331 tp0.c/(2871:2871): NuevoMensaje
+[INFO] 16:27:32:522 tp0.c/(2871:2871): Ahora recibo mensaje
+[INFO] 16:28:04:19 tp0.c/(2907:2907): INICIO PROGRAMA
+[INFO] 16:28:05:91 tp0.c/(2907:2907): NuevoMensaje
+[INFO] 16:28:05:261 tp0.c/(2907:2907): Ahora recibo mensaje
+[INFO] 16:28:39:292 tp0.c/(2912:2912): INICIO PROGRAMA
+[INFO] 16:28:39:356 tp0.c/(2912:2912): NuevoMensaje
+[INFO] 16:28:39:516 tp0.c/(2912:2912): Ahora recibo mensaje
+[INFO] 16:42:32:873 tp0.c/(3201:3201): INICIO PROGRAMA
+[INFO] 16:42:32:938 tp0.c/(3201:3201): Mensaje dominguero
+[INFO] 16:42:33:84 tp0.c/(3201:3201): Ahora recibo mensaje
+[INFO] 16:43:01:233 tp0.c/(3207:3207): INICIO PROGRAMA
+[INFO] 16:43:01:234 tp0.c/(3207:3207): Mensaje dominguero
+[INFO] 16:45:33:987 tp0.c/(3284:3284): INICIO PROGRAMA
+[INFO] 16:45:33:988 tp0.c/(3284:3284): Mensaje dominguero
+[INFO] 16:45:47:477 tp0.c/(3293:3293): INICIO PROGRAMA
+[INFO] 16:45:47:477 tp0.c/(3293:3293): Mensaje dominguero
+[INFO] 16:46:09:87 tp0.c/(3298:3298): INICIO PROGRAMA
+[INFO] 16:46:09:87 tp0.c/(3298:3298): Mensaje dominguero
+[INFO] 16:46:19:484 tp0.c/(3304:3304): INICIO PROGRAMA
+[INFO] 16:46:19:553 tp0.c/(3304:3304): Mensaje dominguero
+[INFO] 16:46:19:726 tp0.c/(3304:3304): Ahora recibo mensaje
+[INFO] 16:47:13:501 tp0.c/(3308:3308): INICIO PROGRAMA
+[INFO] 16:47:13:568 tp0.c/(3308:3308): Mensaje dominguero
+[INFO] 16:47:13:737 tp0.c/(3308:3308): Ahora recibo mensaje
+[INFO] 16:48:50:372 tp0.c/(3367:3367): INICIO PROGRAMA
+[INFO] 16:48:50:442 tp0.c/(3367:3367): Mensaje dominguero
+[INFO] 16:48:50:617 tp0.c/(3367:3367): Ahora recibo mensaje
+[INFO] 16:48:50:619 tp0.c/(3367:3367): FIN PROGRAMA
+[INFO] 16:49:58:128 tp0.c/(3422:3422): INICIO PROGRAMA
+[INFO] 16:49:59:213 tp0.c/(3422:3422): Mensaje dominguero
+[INFO] 16:49:59:373 tp0.c/(3422:3422): Ahora recibo mensaje
+[INFO] 16:53:26:978 tp0.c/(3593:3593): INICIO PROGRAMA
+[INFO] 16:53:27:47 tp0.c/(3593:3593): Mensaje dominguero
+[INFO] 16:53:27:220 tp0.c/(3593:3593): Ahora recibo mensaje
+[INFO] 16:55:17:883 tp0.c/(3660:3660): INICIO PROGRAMA
+[INFO] 16:55:17:883 tp0.c/(3660:3660): Mensaje dominguero
+[INFO] 16:55:38:931 tp0.c/(3666:3666): INICIO PROGRAMA
+[INFO] 16:55:39:8 tp0.c/(3666:3666): Mensaje dominguero
+[INFO] 16:55:39:216 tp0.c/(3666:3666): Ahora recibo mensaje
+[INFO] 16:58:09:674 tp0.c/(3804:3804): INICIO PROGRAMA
+[INFO] 16:58:09:742 tp0.c/(3804:3804): Mensaje dominguero
+[INFO] 16:58:09:918 tp0.c/(3804:3804): Ahora recibo mensaje
+[INFO] 16:58:09:925 tp0.c/(3804:3804): Mensaje dominguero
+[INFO] 16:58:09:926 tp0.c/(3804:3804): FIN PROGRAMA
+[INFO] 16:59:11:196 tp0.c/(3832:3832): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 16:59:11:264 tp0.c/(3832:3832): Mensaje dominguero
+[INFO] 16:59:11:422 tp0.c/(3832:3832): Ahora recibo mensaje
+[INFO] 16:59:11:429 tp0.c/(3832:3832): Mensaje dominguero
+[INFO] 16:59:11:430 tp0.c/(3832:3832): FIN PROGRAMA
+[INFO] 17:01:33:604 tp0.c/(3886:3886): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:01:33:604 tp0.c/(3886:3886): MensajeDominguero
+[INFO] 17:01:52:593 tp0.c/(3889:3889): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:01:52:661 tp0.c/(3889:3889): MensajeDominguero
+[INFO] 17:01:52:882 tp0.c/(3889:3889): Ahora recibo mensaje
+[INFO] 17:01:52:890 tp0.c/(3889:3889): MensajeDominguero
+[INFO] 17:01:52:891 tp0.c/(3889:3889): FIN PROGRAMA
+[INFO] 17:02:23:154 tp0.c/(3892:3892): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:02:23:154 tp0.c/(3892:3892): ElMensajeDelDomingo
+[INFO] 17:03:05:814 tp0.c/(3899:3899): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:05:815 tp0.c/(3899:3899): jojo
+[INFO] 17:03:05:816 tp0.c/(3899:3899): Ahora recibo mensaje
+[INFO] 17:03:05:817 tp0.c/(3899:3899): jojo
+[INFO] 17:03:05:817 tp0.c/(3899:3899): FIN PROGRAMA
+[INFO] 17:03:19:518 tp0.c/(3902:3902): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:19:518 tp0.c/(3902:3902): jojojojo
+[INFO] 17:03:19:519 tp0.c/(3902:3902): Ahora recibo mensaje
+[INFO] 17:03:19:520 tp0.c/(3902:3902): jojojojo
+[INFO] 17:03:19:520 tp0.c/(3902:3902): FIN PROGRAMA
+[INFO] 17:03:27:972 tp0.c/(3906:3906): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:27:972 tp0.c/(3906:3906): mesajelargo
+[INFO] 17:03:27:973 tp0.c/(3906:3906): Ahora recibo mensaje
+[INFO] 17:03:27:973 tp0.c/(3906:3906): mesajelargo
+[INFO] 17:03:27:974 tp0.c/(3906:3906): FIN PROGRAMA
+[INFO] 17:03:34:752 tp0.c/(3908:3908): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:34:753 tp0.c/(3908:3908): mensajelargomaslargo
+[INFO] 17:03:45:237 tp0.c/(3911:3911): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:45:237 tp0.c/(3911:3911): mensajeLargo
+[INFO] 17:03:54:880 tp0.c/(3914:3914): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:54:880 tp0.c/(3914:3914): mensajeLarg
+[INFO] 17:03:54:881 tp0.c/(3914:3914): Ahora recibo mensaje
+[INFO] 17:03:54:882 tp0.c/(3914:3914): mensajeLarg
+[INFO] 17:03:54:882 tp0.c/(3914:3914): FIN PROGRAMA
+[INFO] 17:03:59:956 tp0.c/(3916:3916): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:03:59:957 tp0.c/(3916:3916): MensajeLargo
+[INFO] 17:04:05:272 tp0.c/(3920:3920): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:04:05:272 tp0.c/(3920:3920): MensajeLarg
+[INFO] 17:04:05:273 tp0.c/(3920:3920): Ahora recibo mensaje
+[INFO] 17:04:05:274 tp0.c/(3920:3920): MensajeLarg
+[INFO] 17:04:05:274 tp0.c/(3920:3920): FIN PROGRAMA
+[INFO] 17:05:06:290 tp0.c/(3932:3932): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:05:06:290 tp0.c/(3932:3932): MensajeLargo
+[INFO] 17:07:20:106 tp0.c/(4031:4031): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:07:20:107 tp0.c/(4031:4031): Mensaje muy muy largo
+[INFO] 17:08:11:137 tp0.c/(4059:4059): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:08:11:137 tp0.c/(4059:4059): Mensaje muy muy largo
+[INFO] 17:09:10:951 tp0.c/(4111:4111): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:09:10:951 tp0.c/(4111:4111): Mensaje muy muy largo
+[INFO] 17:10:16:243 tp0.c/(4180:4180): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:10:16:243 tp0.c/(4180:4180): Mensaje muy muy largo
+[INFO] 17:10:40:939 tp0.c/(4217:4217): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:10:41:776 tp0.c/(4217:4217): Mensaje muy muy largo
+[INFO] 17:11:39:453 tp0.c/(4269:4269): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:11:39:454 tp0.c/(4269:4269): Mensaje muy muy largo
+[INFO] 17:13:13:494 tp0.c/(4322:4322): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:13:13:567 tp0.c/(4322:4322): Mensaje muy muy largo
+[INFO] 17:13:13:741 tp0.c/(4322:4322): Ahora recibo mensaje
+[INFO] 17:13:13:747 tp0.c/(4322:4322): Mensaje muy muy largo
+[INFO] 17:13:13:748 tp0.c/(4322:4322): FIN PROGRAMA
+[INFO] 17:13:42:653 tp0.c/(4327:4327): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:13:42:654 tp0.c/(4327:4327): Mensaje muy muy largo
+[INFO] 17:13:59:421 tp0.c/(4330:4330): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:13:59:489 tp0.c/(4330:4330): Mensaje muy muy largo
+[INFO] 17:13:59:691 tp0.c/(4330:4330): Ahora recibo mensaje
+[INFO] 17:13:59:708 tp0.c/(4330:4330): Mensaje muy muy largo
+[INFO] 17:13:59:717 tp0.c/(4330:4330): FIN PROGRAMA
+[INFO] 17:15:33:453 tp0.c/(4533:4533): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:15:33:469 tp0.c/(4533:4533): Mensaje muy muy largo
+[INFO] 17:16:14:348 tp0.c/(4563:4563): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:16:14:349 tp0.c/(4563:4563): Mensaje muy muy largo
+[INFO] 17:16:53:362 tp0.c/(4571:4571): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:16:53:437 tp0.c/(4571:4571): Mensaje muy muy largo
+[INFO] 17:16:53:678 tp0.c/(4571:4571): Ahora recibo mensaje
+[INFO] 17:17:19:185 tp0.c/(4600:4600): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:17:20:262 tp0.c/(4600:4600): Mensaje muy muy largo
+[INFO] 17:17:20:462 tp0.c/(4600:4600): Ahora recibo mensaje
+[INFO] 17:19:29:897 tp0.c/(4656:4656): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:19:29:980 tp0.c/(4656:4656): Mensaje muy muy largo
+[INFO] 17:19:30:163 tp0.c/(4656:4656): Ahora recibo mensaje
+[INFO] 17:19:30:173 tp0.c/(4656:4656): Mensaje muy muy largo
+[INFO] 17:19:30:175 tp0.c/(4656:4656): FIN PROGRAMA
+[INFO] 17:19:52:990 tp0.c/(4658:4658): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:19:52:991 tp0.c/(4658:4658): Mensaje muy muy largo
+[INFO] 17:20:58:342 tp0.c/(4686:4686): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:20:58:342 tp0.c/(4686:4686): Mensaje muy muy largo
+[INFO] 17:21:07:809 tp0.c/(4694:4694): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:21:07:885 tp0.c/(4694:4694): Mensaje muy muy largo
+[INFO] 17:21:08:88 tp0.c/(4694:4694): Ahora recibo mensaje
+[INFO] 17:21:08:97 tp0.c/(4694:4694): Mensaje muy muy largo
+[INFO] 17:21:08:100 tp0.c/(4694:4694): FIN PROGRAMA
+[INFO] 17:29:24:808 tp0.c/(4863:4863): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 17:29:24:809 tp0.c/(4863:4863): elMensaje
+[INFO] 17:29:24:809 tp0.c/(4863:4863): Ahora recibo mensaje
+[INFO] 17:29:24:810 tp0.c/(4863:4863): elMensaje
+[INFO] 17:29:24:810 tp0.c/(4863:4863): FIN PROGRAMA
