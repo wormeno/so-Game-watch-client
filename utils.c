@@ -53,7 +53,7 @@ void enviar_mensaje(char* mensaje, int socket_cliente)
 	int estado=0,bytes = 0;
 	t_buffer* buffer = (t_buffer*) malloc(sizeof(t_buffer));
 	buffer->size =  strlen(mensaje) +1; // ta;anio del mensaje
-	void* stream =  malloc(sizeof(buffer->size));
+	void* stream =  malloc(buffer->size);
 	memcpy(stream , mensaje,buffer->size);
 	buffer->stream = stream;
 	//Armo el paquete
@@ -65,11 +65,7 @@ void enviar_mensaje(char* mensaje, int socket_cliente)
 	void* aEnviar =  serializar_paquete(paquete,&bytes);
 	//envio
 	estado = send(socket_cliente, aEnviar, bytes, 0);
-	//libero
-	free(stream);
-	free(buffer);
-	free(paquete);
-	free(aEnviar);
+
 	printf("envio \n");
 	switch (estado) {
 			case -1:
@@ -83,7 +79,11 @@ void enviar_mensaje(char* mensaje, int socket_cliente)
 				break;
 	}
 	printf("\n");
-	return;
+	//libero
+	free(stream);
+	free(buffer);
+	free(paquete);
+	free(aEnviar);
 }
 
 //TODO

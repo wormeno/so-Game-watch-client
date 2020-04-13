@@ -366,3 +366,21 @@ yè¿!yè¿Ayè¿Qyè¿jyè¿‚yè¿”yè¿ªyè¿½yè¿Íyè¿ðyè¿zè¿$zè¿8zè¿ozè¿{è¿ {è¿7{è¿D{è¿S{è¿l
 [INFO] 17:29:24:809 tp0.c/(4863:4863): Ahora recibo mensaje
 [INFO] 17:29:24:810 tp0.c/(4863:4863): elMensaje
 [INFO] 17:29:24:810 tp0.c/(4863:4863): FIN PROGRAMA
+[INFO] 12:20:54:845 tp0.c/(5471:5471): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 12:20:54:879 tp0.c/(5471:5471): mensajeunpocomaslargo
+[INFO] 12:20:54:879 tp0.c/(5471:5471): Ahora recibo mensaje
+[INFO] 12:20:54:880 tp0.c/(5471:5471): mensajeunpocomaslargo
+[INFO] 12:20:54:880 tp0.c/(5471:5471): FIN PROGRAMA
+[INFO] 12:22:33:838 tp0.c/(5547:5547): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 12:22:33:838 tp0.c/(5547:5547): mensajemaslargoquelonormal
+[INFO] 12:22:33:839 tp0.c/(5547:5547): Ahora recibo mensaje
+[INFO] 12:22:33:840 tp0.c/(5547:5547): mensajemaslargoquelonormal
+[INFO] 12:22:33:840 tp0.c/(5547:5547): FIN PROGRAMA
+[INFO] 12:25:22:320 tp0.c/(5646:5646): INICIO PROGRAMA
+ Envio mensaje
+[INFO] 12:25:22:321 tp0.c/(5646:5646): Mensaje muy muy largo pero recontra demasiadolargolarguisimo
+[INFO] 12:25:22:322 tp0.c/(5646:5646): Ahora recibo mensaje
+[INFO] 12:25:22:323 tp0.c/(5646:5646): Mensaje muy muy largo pero recontra demasiadolargolarguisimo
+[INFO] 12:25:22:323 tp0.c/(5646:5646): FIN PROGRAMA

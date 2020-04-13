@@ -13,8 +13,8 @@ int main(void)
 	int conexion;
 	char* ip;
 	char* puerto;
-	char* mensaje = malloc(32*sizeof(char));
-	//char* mensaje= "Mensaje muy muy largo";
+	//char* mensaje = malloc(32*sizeof(char));
+	char* mensaje= "Mensaje muy muy largo pero recontra demasiadolargolarguisimo";
 	t_log* logger;
 	t_config* config;
 
@@ -22,7 +22,7 @@ int main(void)
 
 	//Loggear "soy un log"
 	printf("Ingrese su mensaje;.\n-> ");
-	scanf("%s",mensaje);
+	//scanf("%s",mensaje);
 	printf("Ingresastes: %s  \n", mensaje);
 	log_info(logger,"INICIO PROGRAMA\n Envio mensaje");
 	log_info(logger,mensaje);
